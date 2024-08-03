@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Illusioner Raid datapack has been reloaded","bold":true,"color":"white"}]
